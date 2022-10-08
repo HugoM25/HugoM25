@@ -1,5 +1,6 @@
-Hi there ! I'm Hugo M. 
-I'm a french engineer student at the UTBM
+Hello there ! My name is Hugo and I'm a student in computer science at UTBM ! 
+I really like creating video games, automating content creation and solving problems.
+You can find here on my Github some of my projects. 
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
