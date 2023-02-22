@@ -1,4 +1,6 @@
-Hello there ! My name is Hugo and I'm a student in computer science at UTBM ! 
+<h1> Hello there !👋 </h1>
+
+I'm Hugo and I'm a student in computer science at UTBM ! 
 I really like creating video games, automating content creation and solving problems.
 You can find here on my Github some of my projects. 
 
