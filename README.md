@@ -2,7 +2,7 @@
 
 I'm Hugo and I'm a student in computer science at UTBM ! 
 I really like creating video games, automating content creation and solving problems.
-You can find here on my Github some of my projects. 
+You can find here on my Github some of my projects or check out [my portfolio](https://hugom25.github.io). 
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
