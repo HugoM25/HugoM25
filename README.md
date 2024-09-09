@@ -1,7 +1,7 @@
 <h1> Hello there !👋 </h1>
 
 I'm Hugo and I'm a student in computer science at UTBM ! 
-I really like creating video games, automating content creation and solving problems.
+I love picking up new technologies and finding ways to use them in my projects. It’s a great way for me to learn while building something practical (...or not).
 You can find here on my Github some of my projects or check out [my portfolio](https://hugom25.github.io). 
 
 
